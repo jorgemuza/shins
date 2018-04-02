@@ -41,3 +41,14 @@ div .highlight {
 .well {
     background: rgba(0, 0, 0, 0.01);
 }
+.toc-wrapper .logo {
+    display: block;
+    max-width: 75%;
+    padding: 25px;
+    margin-bottom: 0px;
+}
+
+.toc-list-h1 > li, h1 {
+    text-transform: capitalize;
+}
+

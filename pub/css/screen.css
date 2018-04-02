@@ -467,7 +467,8 @@ html, body {
       padding-bottom: 0.5em; }
   .toc-wrapper .logo {
     display: block;
-    max-width: 100%;
+    max-width: 75%;
+    padding: 25px;
     margin-bottom: 0px; }
   .toc-wrapper > .search {
     position: relative; }
@@ -795,3 +796,7 @@ html, body {
 
 .highlight, .highlight .w {
   background-color: #1E2224; }
+.toc-list-h1>li>a,
+h1 {
+    text-transform: capitalize;
+}

@@ -5,6 +5,9 @@ source/layouts/layout*.erb
 source/images/custom_logo.*
 spectacle
 dev/
+.DS_Store
+index.html
+yarn.lock
 
 # Logs
 logs
